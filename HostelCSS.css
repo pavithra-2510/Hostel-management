@@ -1,0 +1,31 @@
+body
+{
+}
+.group
+{
+width:32%;
+background:#8304;
+color:#000;
+left:35%;
+font-weight:bold;
+position:absolute;
+margin:10px;
+padding:15px;
+
+}
+.btn-success
+{
+	font-family: cursive;
+	font-size: 30px;
+}
+.log
+{
+	height: 80%;
+	width: 100%;
+}
+.en
+{
+	color:white;
+	font-weight: bold;
+	font-size:20px;
+}

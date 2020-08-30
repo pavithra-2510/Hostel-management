@@ -1,0 +1,171 @@
+/* Made with love by Mutiullah Samim*/
+body
+{
+	font-family: all;
+	font-size: 23px;
+}
+
+.log
+{
+	height: 80%;
+	width: 100%;
+}
+.container{
+height: 100%;
+align-content: center;
+}
+.register
+{
+	width: 50%;
+	margin: 20px 0 0 350px;
+	background-color: #042331;
+	padding: 15px;
+	font-weight: bold;
+	color: white;
+}
+#frm
+{
+	background-color: #042331;
+	width:50%;
+	margin:-30px 0 0 220px;
+	border:1px solid white;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+}
+.card{
+padding: 12px 0;
+height:400px;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: #042331;
+}
+
+.card-header h3{
+	color: white;
+}
+.wh
+{
+	color:white;
+}
+
+.remember{
+color: white;
+}
+
+.remember input
+{
+width: 20px;
+height: 20px;
+margin-left: 15px;
+margin-right: 5px;
+}
+
+.login_btn{
+color: black;
+background-color: #FFC312;
+width: 100px;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px;
+}
+.inp
+{
+	width:350px;
+}
+
+
+h2
+{
+	font-weight:bold;
+	font-style: italic;
+	font-family: cursive;
+}
+.btn-primary
+{
+	font-size:30px;
+}
+
+
+*
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	
+}
+.sidebar
+{
+	position: fixed;
+	left: 0;
+	width: 250px;
+	height: 100%;
+	background: #042331;
+	
+}
+.sidebar header
+{
+	font-size: 22px;
+	color: white;
+	text-align: center;
+	line-height: 70px;
+	background: #063146;
+	user-select: none;
+}
+.sidebar ul a
+{
+	display: block;
+	height: 10%;
+	width: 100%;
+	line-height: 65px;
+	font-size: 20px;
+	color: white;
+	padding-left: 40px;
+	box-sizing: border-box;
+	border-top: 1px solid rgba(255,255,255,.1);
+	border-bottom: 1px solid black;
+	transition: .4s;
+}
+.sidebar ul a
+{
+	margin-right: 16px;
+}
+.tablehead
+{
+	padding: 5px;
+	color:#305;
+	font-weight: bold;
+	font-size: 20px;
+	font-style: italic;
+}
+h1
+{
+	background: #042331;
+	color: white;
+	display: block;
+	height: 2%;
+	width: 30%;
+	line-height: 65px;
+	font-size: 45px;
+	padding: 40px;
+	box-sizing: border-box;
+	border-top: 1px solid rgba(255,255,255,.1);
+	border-bottom: 1px solid black;
+	transition: .4s;
+}
+.wh
+{
+	color:white;
+}

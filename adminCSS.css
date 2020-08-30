@@ -1,0 +1,33 @@
+body
+{
+	font-family: all;
+	font-size: 20px;
+}
+h1
+{
+	font-size:20px;
+	color:white;
+}
+.ts-sidebar
+{
+	padding: 30px;
+	border-bottom: 1px solid #9199;
+}
+.adm
+{
+	padding: 10px;
+	left:30%;
+	margin-left: 400px;
+	margin-right: 80%;
+	height: 20px;
+	width: 40px;
+}
+.panel-heading
+{
+	font-weight: bold;
+}
+#aa{
+	padding: 20px;
+	left: 20px;
+	margin-right: 10px;
+}

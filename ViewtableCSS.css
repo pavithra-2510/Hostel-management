@@ -1,0 +1,43 @@
+body
+{
+
+}
+.contenttable
+{
+	border-collapse: collapse;
+	margin: 0 200px;
+	text-align: center;
+	overflow-x: auto;
+	min-width: 1000px;
+}
+.tablehead
+{
+	color:#913;
+	font-weight:bold;
+	font-size:25px;
+	text-align: center;
+	padding: 5px;
+}
+.tablecontent
+{
+	padding: 10px;
+	font-weight:bolder;
+	font-size: 20px;
+	text-align: center;
+	color: #769;
+}
+.contenttable th,
+.contenttable td
+{
+	padding: 2px 3px;
+}
+
+.contenttable th
+{
+	background-color: #913;
+	color:white;
+}
+.contenttable td
+{
+	border: 1px solid black;
+}

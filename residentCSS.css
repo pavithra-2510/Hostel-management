@@ -1,0 +1,16 @@
+body
+{
+	font-family: all;
+}
+.content-wrapper
+{
+	font-size: 25px;
+	font-weight: bold;
+	font-family: all;
+	border:5px solid #992032;
+}
+.registration
+{
+	top:23%;
+	width: 30%;
+}
